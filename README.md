@@ -1,8 +1,9 @@
 Name
-horoscope machine learning
+===
+horoscope machine learning<br>
 今日の占いカウントダウンを機械学習で予想してみた。
 
-Overview
+## Overview
 Predict "Kyo no Uranai Countdown"(horoscope TV show in Fuji TV) with Machine Learning in Google Colaboratory.
 
 ## Description
